@@ -1,16 +1,16 @@
-header: Say something about what you're good at
+header: Adaptability is my greatest strength.
 
-subheader: Give some more context
+subheader: If I can't solve a problem now, I'll learn how to solve that problem faster than anybody else.
 
 skill_list:
-  - name: Skill 1
-    description: A quick sentence or two describing your skill
+  - name: Flexible
+    description: Eager to learn and adapt to new challenges
 
-  - name: Skill 2
-    description: A quick sentence or two describing your skill
+  - name: Attention to Detail
+    description: Always looking to go the extra mile to make a project succeed
 
-  - name: Skill 3
-    description: A quick sentence or two describing your skill
+  - name: Team Player
+    description: Able to switch roles to best suit the team's needs
 
 #If you have certifications, talk about them here
 certifications:

@@ -1,13 +1,14 @@
 #If you have worked on relevant projects talk about them here
 
-- name: Project 1
-  description: A few sentences describing your project.
+- name: Machine Learning Project
+  description: "Tested several classifier models on a database of mushroom characteristics. Used Python and Scikit-Learn to process the dataset and to implement
+  Decision Tree, Naive Bayes, and Perceptron classifiers."
 
-- name: Project 2
-  description: A few sentences describing your project.
+- name: Web Development Project
+  description: "Developed an online customer database for a hypothetical ecommerce company. This application used Node, Express, React, and MongoDB."
 
-- name: Project 3
-  description: A few sentences describing your project.
+- name: Ecommerce Customer Database
+  description: "Developed cutomer database for a hypothetical ecommerce company. Database was written in C++ and utilized the Heap and Binary Search Tree data structures."
 
-- name: Project 4
-  description: A few sentences describing your project.
+- name: Tracing Record Database
+  description: "Developed a database for hypothetical COVID-19 tracing records. Database was implemented in C++ and supported variable-size databases and file persistence."
